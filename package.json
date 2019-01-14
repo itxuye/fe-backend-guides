@@ -1,0 +1,33 @@
+{
+  "name": "fe-backend-guides",
+  "version": "1.0.0",
+  "description": "fe-backend-guides",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "sh build/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itxuye/fe-backend-guides.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "react",
+    "graphql"
+  ],
+  "author": "itxuye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itxuye/fe-backend-guides/issues"
+  },
+  "homepage": "https://github.com/itxuye/fe-backend-guides#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
