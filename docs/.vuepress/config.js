@@ -30,9 +30,24 @@ module.exports = {
         children: ["/"]
       },
       {
+        title: "FE",
+        collapsable: false,
+        children: ["/fe/Typescript"]
+      },
+      {
+        title: "Graphql",
+        collapsable: false,
+        children: ["/graphql/Graphql"]
+      },
+      {
         title: "Node",
         collapsable: false,
         children: ["/node/node"]
+      },
+      {
+        title: "InterView",
+        collapsable: false,
+        children: ["/interview/InterView"]
       }
     ]
   }
