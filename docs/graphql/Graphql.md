@@ -8,7 +8,7 @@
 
 * [graphql-modules](https://graphql-modules.com/docs/introduction/getting-started)  
 
-* [Appllo-client](https://apollographqlcn.github.io/react-docs-cn/)  
+* [Apollo-client](https://apollographqlcn.github.io/react-docs-cn/)  
 
-* [apollo-server](https://www.apollographql.com/docs/apollo-server/)
+* [Apollo-server](https://www.apollographql.com/docs/apollo-server/)
   

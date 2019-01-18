@@ -45,6 +45,11 @@ module.exports = {
         children: ["/node/node"]
       },
       {
+        title: "Flutter",
+        collapsable: false,
+        children: ["/flutter/flutter"]
+      },
+      {
         title: "InterView",
         collapsable: false,
         children: ["/interview/InterView"]
