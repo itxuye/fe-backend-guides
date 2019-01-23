@@ -45,6 +45,11 @@ module.exports = {
         children: ["/node/node"]
       },
       {
+        title: "FEInterView",
+        collapsable: false,
+        children: ["/feiw/FeIw"]
+      },
+      {
         title: "InterView",
         collapsable: false,
         children: ["/interview/InterView"]
