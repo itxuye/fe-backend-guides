@@ -50,6 +50,11 @@ module.exports = {
         children: ["/flutter/flutter"]
       },
       {
+        title: "FEInterView",
+        collapsable: false,
+        children: ["/feiw/FeIw"]
+      },
+      {
         title: "InterView",
         collapsable: false,
         children: ["/interview/InterView"]
