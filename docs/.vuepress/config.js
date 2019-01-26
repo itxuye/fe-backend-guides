@@ -50,6 +50,11 @@ module.exports = {
         children: ["/flutter/flutter"]
       },
       {
+        title: "MicroFrontEnd",
+        collapsable: true,
+        children: ["/microfrontend/MicroFrontend"]
+      },
+      {
         title: "FEInterView",
         collapsable: false,
         children: ["/feiw/FeIw"]
