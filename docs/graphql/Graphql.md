@@ -1,6 +1,6 @@
-# Graphql
+# GraphQL
 
-- [Graphql 中文文档](http://graphql.cn/)
+- [GraphQL 中文文档](http://graphql.cn/)
 
 - [prisma 中文文档](https://prisma.1wire.com/docs)
 
