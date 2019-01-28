@@ -25,9 +25,19 @@ module.exports = {
     nav: [{ text: "blog", link: "https://itxuye.com" }],
     sidebar: [
       {
-        title: "简介",
+        title: "2019",
         collapsable: false,
         children: ["/"]
+      },
+      {
+        title: "React",
+        collapsable: false,
+        children: ["/fe/React"]
+      },
+      {
+        title: "React设计模式",
+        collapsable: true,
+        children: ["/fe/React-in-patterns-cn"]
       },
       {
         title: "Typescript",
