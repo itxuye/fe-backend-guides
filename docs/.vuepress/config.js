@@ -30,7 +30,7 @@ module.exports = {
         children: ["/"]
       },
       {
-        title: "FE",
+        title: "Typescript",
         collapsable: false,
         children: ["/fe/Typescript"]
       },
