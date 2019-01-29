@@ -40,6 +40,11 @@ module.exports = {
         children: ["/fe/React-in-patterns-cn"]
       },
       {
+        title: "前端工程化",
+        collapsable: false,
+        children: ["/fe/feengineering"]
+      },
+      {
         title: "Typescript",
         collapsable: false,
         children: ["/fe/Typescript"]
