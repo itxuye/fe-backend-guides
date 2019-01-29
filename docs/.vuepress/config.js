@@ -70,6 +70,11 @@ module.exports = {
         children: ["/microfrontend/MicroFrontend"]
       },
       {
+        title: "Docker",
+        collapsable: true,
+        children: ["/backend/Docker"]
+      },
+      {
         title: "FEInterView",
         collapsable: false,
         children: ["/feiw/FeIw"]
