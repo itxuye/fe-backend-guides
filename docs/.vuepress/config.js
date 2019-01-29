@@ -71,7 +71,7 @@ module.exports = {
       },
       {
         title: "Docker",
-        collapsable: true,
+        collapsable: false,
         children: ["/backend/Docker"]
       },
       {
