@@ -10,7 +10,7 @@
 
 希望这篇文章能够为大多数 JavaScript 开发者提供快速简便的介绍，并且我会尝试使用 Flutter / Dart 和 [Pub](https://pub.dartlang.org/) 包来类比 JS 和 npm 生态系统。
 
-> 如果你有兴趣了解 Flutter 教程、库、公告和社区更新的最新信息，我建议您注册我刚刚宣布的每两周一次的[Flutter Newsletter](http://flutternewsletter.com/) 。
+> 如果你有兴趣了解 Flutter 教程、库、公告和社区更新的最新信息，我建议您注册订阅[Flutter Newsletter](http://flutternewsletter.com/) 。
 
 我在 [React Native EU](https://react-native.eu/) 的演讲 [React Native — Cross Platform & Beyond](https://www.youtube.com/watch?v=pFtvv0rJgPw) 中，讨论并演示了 React 生态系统中的一些不同技术， 包括 [React Native Web](https://github.com/necolas/react-native-web), [React Primitives](https://github.com/lelandrichardson/react-primitives), 和 [ReactXP](https://microsoft.github.io/reactxp/), 并且我也有机会讨论 [Weex](https://weex.incubator.apache.org/) 和 [Flutter](https://flutter.io/).
 
