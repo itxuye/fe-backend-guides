@@ -2,6 +2,8 @@
 
 ## 面试题相关
 
+- [React 面试集锦](https://github.com/sudheerj/reactjs-interview-questions)
+
 - [中高级前端大厂面试](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 
 - [合格前端系列第九弹-前端面试那些事](https://zhuanlan.zhihu.com/p/32911022)
