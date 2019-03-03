@@ -2,6 +2,10 @@
 
 ## 面试题相关
 
+- [前端面试查漏补缺](https://juejin.im/post/5c73347cf265da2dd773e7dc)
+
+- [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+
 - [React 面试集锦](https://github.com/sudheerj/reactjs-interview-questions)
 
 - [中高级前端大厂面试](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
