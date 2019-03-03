@@ -2,6 +2,10 @@
 
 ## 面试题相关
 
+- [前端面试题整理](https://segmentfault.com/a/1190000017894976)
+
+- [React 基础面试题](https://zhuanlan.zhihu.com/p/55063322)
+
 - [实现一个深克隆](https://juejin.im/post/5abb55ee6fb9a028e33b7e0a)
 
 - [前端模块化](https://juejin.im/post/5aaa37c8f265da23945f365c)
