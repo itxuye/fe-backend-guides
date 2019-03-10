@@ -45,6 +45,11 @@ module.exports = {
         children: ["/fe/feengineering"]
       },
       {
+        title: "css灵感",
+        collapsable: false,
+        children: ["/fe/css"]
+      },
+      {
         title: "Typescript",
         collapsable: false,
         children: ["/fe/Typescript"]
@@ -83,17 +88,17 @@ module.exports = {
         title: "InterView",
         collapsable: false,
         children: ["/interview/InterView"]
-      },
-      {
-        title: "Flutter for JavaScript Developers(待翻译)",
-        collapsable: true,
-        children: ["/flutter/Flutter-for-JavaScript-Developers"]
-      },
-      {
-        title: "为 JavaScript 开发者准备的 Flutter 指南",
-        collapsable: true,
-        children: ["/flutter/Flutter-for-JavaScript-Developerss"]
       }
+      // {
+      //   title: "Flutter for JavaScript Developers(待翻译)",
+      //   collapsable: true,
+      //   children: ["/flutter/Flutter-for-JavaScript-Developers"]
+      // },
+      // {
+      //   title: "为 JavaScript 开发者准备的 Flutter 指南",
+      //   collapsable: true,
+      //   children: ["/flutter/Flutter-for-JavaScript-Developerss"]
+      // }
     ]
   }
 };
