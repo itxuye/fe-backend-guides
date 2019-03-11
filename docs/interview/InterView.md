@@ -2,6 +2,8 @@
 
 ## 面试题相关
 
+- [前端面试总结](https://juejin.im/post/5b94d8965188255c5a0cdc02#heading-88)
+
 - [30 秒面试](https://hacpai.com/article/1544793046274)
 
 - [2万5千字大厂面经](https://juejin.im/post/5ba34e54e51d450e5162789b)
